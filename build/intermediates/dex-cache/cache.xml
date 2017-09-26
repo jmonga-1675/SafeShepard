@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Danish/.android/build-cache/f08796168a738159fca07bd633d6f97f3d541f00/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Danish/Desktop/CrimeDirections/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5177481c0e559bc61c0358c78771407d82f74ce3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Danish/.android/build-cache/09d3942eea7472c7faa594fcbf5c049650acb02d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d720627a0fdd516f238c3acdfac6043e7717b742">
+        <dex dex="/Users/Danish/Desktop/CrimeDirections/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_99f9d9849867e17c6ba2de6ce957a9cbb5bf8870/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Danish/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/Danish/Desktop/CrimeDirections/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.1_d85aa6cb70904b15a89cd4c3b9072c6dec0a6569/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Danish/.android/build-cache/1138acf0de8e54f29a80d274c371b67b6577f6a3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/Danish/Desktop/CrimeDirections/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c7cf0411732d4575ec65f15307628fba8232ffbb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Danish/.android/build-cache/0f2b47577184b320936796a7313d35831ea068e1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/Danish/Desktop/CrimeDirections/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eceb1dae7e48442faa1da5bf6a13520424cc90ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Danish/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/Danish/Desktop/CrimeDirections/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_c3de31fb301d63a38c7fb5a7c7286aaa5baec5e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Danish/.android/build-cache/3534824ae4069aaa252a47eb2c163c95f8e3f2de/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/Danish/Desktop/CrimeDirections/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e3e00ba791d82a80c0c7e4dc822d3a0ff742b896/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Danish/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.4.1/381fc1096ba65040d8e80ea43b2e1d9bad02345e/logging-interceptor-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="381fc1096ba65040d8e80ea43b2e1d9bad02345e">
+        <dex dex="/Users/Danish/Desktop/CrimeDirections/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.4.1_3429c6af9d26b0a2431e129749e642a0e15e4cfc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Danish/.android/build-cache/d9ea4a570ee3b17d3dd910724ddf1af436f37bb7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/Danish/Desktop/CrimeDirections/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6f5917000213f86819fe929f68b186054a3d3600/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Danish/.android/build-cache/42dfb877e91f336030c775c8533f38a6975b0753/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/Danish/Desktop/CrimeDirections/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d2a78ac8a7d06893bf446b7477ade4ba3607b311/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Danish/.android/build-cache/5c5c7f5913013e68a37fb5dd7f169fa70a5c8cb2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/Danish/Desktop/CrimeDirections/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e135332fdc67c7e1f74a4ce60e86ecd61b39f573/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Danish/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/Danish/Desktop/CrimeDirections/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_0a49df8b3287a8424ecd95d62cef268e60f3e108/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Danish/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/Danish/Desktop/CrimeDirections/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_c04cedd2e28d87765b32a0279f0526956929eb34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Danish/.android/build-cache/6c861c7569ab5bbe95f5663d1d0b167c6fc7680a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/Danish/Desktop/CrimeDirections/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_687e11314cf870edde5aa1e39394a6e965780882/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Danish/.android/build-cache/4b4c979bed9e2c27b451be183fea728ea7cd0057/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/Danish/Desktop/CrimeDirections/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2e1bac17915b7fbccf21beb3b61ed1dde4566e65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Danish/Desktop/CrimeDirections/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="34dc79aa60981448afedca5fd8a75451cafa2d5a">
+        <dex dex="/Users/Danish/Desktop/CrimeDirections/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_accebb20bc9ff72d763557e86aaa9ac36b8d19a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Danish/.android/build-cache/14baa672ea14678f29409e54af96713e38966df2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/Danish/Desktop/CrimeDirections/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c62a8251e42e74fec99c26c016d08cfd03df08ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Danish/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/Danish/Desktop/CrimeDirections/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_ff0bb5768175e971e6ee88b031e30057a3de510b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Danish/.android/build-cache/4a8457cc78a720abd094395abe1ae5b62d69b0c7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/Danish/Desktop/CrimeDirections/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1756ba8651507112c53e7f14f1bb26a17a48dba7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Danish/.android/build-cache/d4803477999800595fa791ba387825999c1af2c2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/Danish/Desktop/CrimeDirections/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4d2242b5386e8f7cc423cb84b210145bf783dff9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Danish/.android/build-cache/0acf7999b86edb7c30773a86f118a47e8d23eb9a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/Users/Danish/Desktop/CrimeDirections/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_34919da35d71a20fdab74a78d43b3ca75cf1bfaa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Danish/.android/build-cache/7b2040270efd1e8e0ce9e6d3615e3553213f102f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/Danish/Desktop/CrimeDirections/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7bbcade688e591c88a831b2333f7de85d3fcb325/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Danish/.android/build-cache/9d4ca92e6aa44cdcdfdc0ea5865480648a13900c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/Danish/Desktop/CrimeDirections/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f0c188feb298d77dee6e801c17e204af4d8fec37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Danish/.android/build-cache/f1279a274c148527874607a33f5e5baf63a37ee5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/Danish/Desktop/CrimeDirections/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2226abf6fab0ca6ca74a804054d8bd3876092b4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Danish/.android/build-cache/56eb108507f4c90e9e923c3486d5444261c1f003/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/Danish/Desktop/CrimeDirections/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6e198a42f1814760057122fdb18d1f8e494afef5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Danish/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/Danish/Desktop/CrimeDirections/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_e38630407a085a18fe4f2853a3de1263d1563659/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Danish/Desktop/CrimeDirections/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/Danish/Desktop/CrimeDirections/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_913cb9390900ff1a9eca76add43a026e92e3e851/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Danish/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/Danish/Desktop/CrimeDirections/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_0277d440316b18c96c7be5896c29109f5c87552d/classes.dex" />
+    </item>
+
+</items>

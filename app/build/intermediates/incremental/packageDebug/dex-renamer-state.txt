@@ -1,0 +1,7 @@
+#Sun Sep 24 11:59:12 CDT 2017
+base.0=/Users/Danish/Desktop/CrimeDirections/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_accebb20bc9ff72d763557e86aaa9ac36b8d19a6
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/Danish/Desktop/CrimeDirections/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_913cb9390900ff1a9eca76add43a026e92e3e851/classes.dex
+base.1=/Users/Danish/Desktop/CrimeDirections/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_913cb9390900ff1a9eca76add43a026e92e3e851
+file.0=/Users/Danish/Desktop/CrimeDirections/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_accebb20bc9ff72d763557e86aaa9ac36b8d19a6/classes.dex

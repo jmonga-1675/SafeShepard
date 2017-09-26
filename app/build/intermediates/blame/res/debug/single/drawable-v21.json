@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/Danish/Desktop/CrimeDirections/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/Danish/.android/build-cache/0f2b47577184b320936796a7313d35831ea068e1/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/Danish/Desktop/CrimeDirections/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/Danish/.android/build-cache/0f2b47577184b320936796a7313d35831ea068e1/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/Danish/Desktop/CrimeDirections/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/Danish/.android/build-cache/0f2b47577184b320936796a7313d35831ea068e1/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/Danish/Desktop/CrimeDirections/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/Danish/.android/build-cache/d4803477999800595fa791ba387825999c1af2c2/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/Danish/Desktop/CrimeDirections/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/Danish/.android/build-cache/0f2b47577184b320936796a7313d35831ea068e1/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/Danish/Desktop/CrimeDirections/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/Danish/.android/build-cache/d4803477999800595fa791ba387825999c1af2c2/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/Danish/Desktop/CrimeDirections/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/Danish/.android/build-cache/d4803477999800595fa791ba387825999c1af2c2/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/Danish/Desktop/CrimeDirections/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/Danish/.android/build-cache/d4803477999800595fa791ba387825999c1af2c2/output/res/drawable-v21/avd_hide_password.xml"
+    }
+]
